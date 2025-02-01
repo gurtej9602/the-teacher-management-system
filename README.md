@@ -21,7 +21,7 @@ The Teacher Management System is a Python-based program designed to help educati
    ```bash
    cd the-teacher-management-system
    ```
-3. **Install Dependencies:**If the project requires additional libraries:
+3. **Install Dependencies:** If the project requires additional libraries:
    ```bash
    pip install pandas
    pip install matplotlib
