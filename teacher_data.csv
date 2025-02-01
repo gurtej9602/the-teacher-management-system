@@ -1,0 +1,11 @@
+Teacher ID,Name,Subject,Qualification,Contact,Email,Experience
+T001,John Smith,Mathematics,Ph.D,9876543210,john.smith@example.com,10
+T002,Jane Doe,Physics,M.Sc,9876541234,jane.doe@example.com,5
+T003,Alice Lee,Chemistry,M.Sc,9876545678,alice.lee@example.com,7
+T004,Mark Johnson,Biology,B.Ed,9876548765,mark.johnson@example.com,3
+T005,Susan Taylor,English,M.A,9876543456,susan.taylor@example.com,8
+T006,David Brown,History,Ph.D,9876542345,david.brown@example.com,15
+T007,Emily Davis,Computer Science,B.Tech,9876541235,emily.davis@example.com,6
+T008,Robert Wilson,Geography,M.Sc,9876543457,robert.wilson@example.com,4
+T009,Laura Martin,Economics,M.A,9876549876,laura.martin@example.com,12
+T010,Peter Parker,Physical Education,B.P.Ed,9876546789,peter.parker@example.com,2

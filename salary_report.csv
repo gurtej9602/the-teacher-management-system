@@ -1,0 +1,11 @@
+Teacher ID,Name,Subject,Base Salary,Experience Bonus,Allowance,Total Salary
+T001,John Smith,Mathematics,30000,10000,5000,45000
+T002,Jane Doe,Physics,30000,5000,5000,40000
+T003,Alice Lee,Chemistry,30000,7000,5000,42000
+T004,Mark Johnson,Biology,30000,3000,5000,38000
+T005,Susan Taylor,English,30000,8000,5000,43000
+T006,David Brown,History,30000,15000,5000,50000
+T007,Emily Davis,Computer Science,30000,6000,5000,41000
+T008,Robert Wilson,Geography,30000,4000,5000,39000
+T009,Laura Martin,Economics,30000,12000,5000,47000
+T010,Peter Parker,Physical Education,30000,2000,5000,37000
