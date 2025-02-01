@@ -32,6 +32,7 @@ The Teacher Management System is a Python-based program designed to help educati
    python teacher-managment-system
    ```
 2. Follow the on-screen instructions to add, update, delete, or view teacher records.
+3. Also, example data is also provided 
 # Future Enhancements
 * Integration with cloud databases.
 * Advanced search and filter options.
